@@ -174,7 +174,7 @@ user.fb123
 .contact__button
 mailto:examplemail@gmail.com.com
 
-https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!
+https://api.whatsapp.com/send?phone=+959268312901&text=Hello, more information!
 
 https://m.me/crypticalcoder
 

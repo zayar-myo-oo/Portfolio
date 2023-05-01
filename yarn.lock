@@ -215,6 +215,11 @@
   resolved "https://registry.yarnpkg.com/@camwiegert/typical/-/typical-0.1.1.tgz#c75d3b658e2f542d113c3e266389794c7dc45d6d"
   integrity sha512-4xAtH3F3uJ8boe9IPahdYFCBELmyOBwHGAn0rDO6C1rx0TuZb5f4UqfuiOQF7YiMJGCOsUIW7LyucMNnVQYsRg==
 
+"@emailjs/browser@^3.11.0":
+  version "3.11.0"
+  resolved "https://registry.yarnpkg.com/@emailjs/browser/-/browser-3.11.0.tgz#0e78de2f85096d1a9ad5b5977b060bb5d1784cb4"
+  integrity sha512-RkY3FKZ3fPdK++OeF46mRTFpmmQWCHUVHZH209P3NE4D5sg2Atg7S2wa3gw5062Gl4clt4Wn5SyC4WhlVZC5pA==
+
 "@esbuild/android-arm64@0.17.18":
   version "0.17.18"
   resolved "https://registry.yarnpkg.com/@esbuild/android-arm64/-/android-arm64-0.17.18.tgz#4aa8d8afcffb4458736ca9b32baa97d7cb5861ea"
@@ -703,6 +708,11 @@ electron-to-chromium@^1.4.284:
   version "1.4.377"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.377.tgz#7f326a0b2c1b96eca6bb65907addc505d0d15989"
   integrity sha512-H3BYG6DW5Z+l0xcfXaicJGxrpA4kMlCxnN71+iNX+dBLkRMOdVJqFJiAmbNZZKA1zISpRg17JR03qGifXNsJtw==
+
+emailjs-com@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/emailjs-com/-/emailjs-com-3.2.0.tgz#a53cb22f1bc433c701c84c53d8b56eefd5ce7111"
+  integrity sha512-Prbz3E1usiAwGjMNYRv6EsJ5c373cX7/AGnZQwOfrpNJrygQJ15+E9OOq4pU8yC977Z5xMetRfc3WmDX6RcjAA==
 
 es-abstract@^1.19.0, es-abstract@^1.20.4:
   version "1.21.2"
