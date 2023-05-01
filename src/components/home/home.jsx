@@ -2,7 +2,8 @@ import React from 'react'
 import Social from './Social';
 import Data  from './Data';
 import "./home.css";
-import ScrollDown from './ScrollDown';
+import ScrollDown from './scrollDown';
+
 
 
 const Home = () => {

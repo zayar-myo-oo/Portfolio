@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Typical from 'react-typical'
 const Data = () => {
   return (
     <div className="home__data">
@@ -55,9 +55,21 @@ const Data = () => {
                   ></path>
         </svg>
           </h1> 
-        <h3 className="home__subtitle">Full Stack Developer</h3>
+        <h3 className="home__subtitle">
+          I'm a {" "}
+          <Typical
+          loop={1}
+          wrapper="b"
+          steps={[
+            "Full Stack Developer",
+            1000,
+            "Freelancer",
+            1000,
+          ]}
+          />          
+          </h3>
         <p className="home__description">
-         I'm a dedicated full-stack developer from Myanmar with a strong passion for my work. I bring boundless energy and a commitment to excellence to every project I undertake.
+        from Myanmar with a strong passion for my work. I bring boundless energy and a commitment to excellence to every project I undertake.
         </p>
       <a href="#contact" className="button button--flex">
         Say Hello     <svg
