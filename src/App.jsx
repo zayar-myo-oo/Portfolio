@@ -1,7 +1,7 @@
 import './App.css'
 import Header from './components/header/header'
 import Home from './components/home/home'
-
+import About from './components/about/About'
 function App() {
 
 
@@ -10,6 +10,7 @@ function App() {
       <Header />
       <main className='main'>
         <Home />
+        <About/>
         </main>
     </>
   )
