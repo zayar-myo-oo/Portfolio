@@ -3,7 +3,7 @@ import './header.css';
 const Header = () => {
     // Toggle Menu
     const [Toggle,showMenu]=useState(false);
-    console.log(Toggle)
+    
   return (
     <header className="header">
         <nav className="nav container">

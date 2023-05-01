@@ -65,6 +65,8 @@ const Data = () => {
             1000,
             "Freelancer",
             1000,
+            "Full Stack Developer",
+            1000,
           ]}
           />          
           </h3>

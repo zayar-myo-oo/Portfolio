@@ -11,7 +11,7 @@
   border-radius: 1.25rem;
 }
 
-.skills__title {
+.skills__title{
   font-size: var(--normal-font-size);
   font-weight: var(--font-medium);
   text-align: center;
@@ -30,7 +30,7 @@
   row-gap: 1rem;
 }
 
-.sklills__data {
+.skills__data {
   display: flex;
   column-gap: 0.5rem;
 }
